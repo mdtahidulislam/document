@@ -9,3 +9,4 @@
 3. [woocommerce-add-cart-ajax-single-product-page](https://wppatrickk.com/woocommerce-add-cart-ajax-single-product-page/)
 4. [add-to-cart-with-woocommerce-and-ajax-step-by-step](https://quadmenu.com/add-to-cart-with-woocommerce-and-ajax-step-by-step/)
 5. [how-to-integrate-add-to-cart-validation-in-woocommerce](https://wooproducttable.com/how-to-integrate-add-to-cart-validation-in-woocommerce/)
+6. [add-product-to-cart-programmatically](https://rudrastyh.com/woocommerce/add-product-to-cart-programmatically.html)
